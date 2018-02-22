@@ -1,0 +1,8 @@
+﻿.product {
+    width: 100px;
+    height: 100px;;
+    overflow: hidden;
+    padding: 5px;
+    margin:5px;
+    float: left;
+}

@@ -1,0 +1,39 @@
+﻿.product {
+    width: 100%;
+    text-align: left;
+}
+
+.productContainer {
+    display: block;
+    clear: both;
+    overflow: hidden;
+    min-height: 200px;
+    height: inherit;
+    width: 100%;
+    padding: 15px;
+}
+
+.product {
+    width: 350px;
+    height: inherit;
+    overflow: hidden;
+    padding: 5px;
+    margin: 15px;
+    background-image: url('../images/bg-10-full.jpg');
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 3px 3px 3px;
+    float: left;
+    left: 8%;
+    position: relative;
+}
+.product h2{
+    text-align:center;
+    text-shadow:inherit;
+}
+
+.footer p{
+    text-align:center;
+    text-anchor:middle;
+    color:#ffffff;
+    font-weight:bold;
+}

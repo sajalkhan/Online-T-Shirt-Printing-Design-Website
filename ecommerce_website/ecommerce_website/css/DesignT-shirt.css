@@ -1,0 +1,45 @@
+﻿.productContainer {
+    display: block;
+    clear: both;
+    overflow: hidden;
+    min-height: 200px;
+    height: inherit;
+    width: 450px;
+    padding: 15px;
+}
+
+.product {
+    width: 80px;
+    height:80px;
+    overflow: hidden;
+    padding: 2px;
+    margin: 2px;
+    background-color:#ffffff;
+    float: left;
+    position: relative;
+}
+.image {
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+}
+h2 {
+    position: absolute;
+    left: 50%;
+    z-index: 1;
+    transform: translateX(-50%);
+    top: 60px;
+}
+.loadImage{
+    position: absolute;
+    z-index:1;
+    left:50%;
+    transform: translateX(-50%);
+    top: 260px;
+}
+.footer p{
+    text-align:center;
+    text-anchor:middle;
+    color:#ffffff;
+    font-weight:bold;
+}

@@ -1,0 +1,244 @@
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ecommerce_website.dll.config
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ecommerce_website.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ecommerce_website.pdb
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\System.Web.Providers.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\System.Web.Providers.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.dll
+c:\users\user\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.Office.v17.2.Core.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.Images.v17.2.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.Data.v17.2.xml
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.Printing.v17.2.Core.xml
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.Web.v17.2.xml
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\DevExpress.Office.v17.2.Core.xml
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\de\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\es\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ja\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ru\DevExpress.Web.Resources.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\de\DevExpress.Web.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\es\DevExpress.Web.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ja\DevExpress.Web.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ru\DevExpress.Web.v17.2.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.dll.licenses
+C:\Users\User\documents\visual studio 2015\Projects\ecommerce_website\ecommerce_website\bin\AjaxControlToolkit.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.csprojResolveAssemblyReference.cache
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.dll.licenses
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.pdb
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\ApplicationInsights.config
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\csc.exe
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\System.Collections.Immutable.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\System.Reflection.Metadata.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\vbc.exe
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\VBCSCompiler.exe
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\roslyn\VBCSCompiler.exe.config
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\ecommerce_website.dll.config
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\ecommerce_website.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\ecommerce_website.pdb
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Antlr3.Runtime.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\AspNet.ScriptManager.bootstrap.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\AspNet.ScriptManager.jQuery.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\EntityFramework.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\EntityFramework.SqlServer.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.DependencyCollector.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.Web.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.WindowsServer.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.ApplicationInsights.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Google.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.ScriptManager.WebForms.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Web.Infrastructure.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Newtonsoft.Json.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Owin.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\System.Web.Optimization.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\System.Web.Providers.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\WebGrease.dll
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.DependencyCollector.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.Web.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AI.WindowsServer.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.ApplicationInsights.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\System.Web.Optimization.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Antlr3.Runtime.pdb
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Newtonsoft.Json.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\EntityFramework.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\EntityFramework.SqlServer.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\System.Web.Providers.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Google.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LICT\TUP-OFF-BDJ-15-DotNet\16. Project Status Report\Soharub\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.csproj.CoreCompileInputs.cache
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\ApplicationInsights.config
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\csc.exe
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\vbc.exe
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\VBCSCompiler.exe
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\ecommerce_website.dll.config
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\ecommerce_website.dll
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\ecommerce_website.pdb
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.AI.DependencyCollector.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.AI.Web.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.AI.WindowsServer.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.ApplicationInsights.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\System.Web.Optimization.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Antlr3.Runtime.pdb
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Newtonsoft.Json.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\EntityFramework.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\EntityFramework.SqlServer.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\System.Web.Providers.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.csprojResolveAssemblyReference.cache
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.dll.licenses
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.dll
+D:\ASP.Net Project\ecommerce_website\ecommerce_website\obj\Debug\ecommerce_website.pdb
